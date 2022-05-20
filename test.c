@@ -1,3 +1,3 @@
 int main (void) {
-    printf("hello guys, i'm steve");
+    printf("hello guys, i'm alexa");
 }
